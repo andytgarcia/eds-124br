@@ -8,3 +8,5 @@ Show What You Know: Explain Your Program - Repeats: https://youtu.be/7PlyPmbmAME
 Animal Parade: https://youtu.be/ENnMW9WVy-c
 
 Show What You Know: Explain Your Program - Nested Repeats: https://youtu.be/ubzSoy_8Ga8
+
+Show What You Know: Explain Your Program - Events: https://youtu.be/x4OEXv5ZK28
