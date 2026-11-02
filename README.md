@@ -12,3 +12,5 @@ Show What You Know: Explain Your Program - Nested Repeats: https://youtu.be/ubzS
 Show What You Know: Explain Your Program - Events: https://youtu.be/x4OEXv5ZK28
 
 Show What You Know: Explain Your Program - Variables: https://youtu.be/YyGDbepAVNE
+
+Show What You Know: Explain Your Program - Conditional Loops: https://youtu.be/j9NV6f8gyTo
