@@ -16,3 +16,5 @@ Show What You Know: Explain Your Program - Variables: https://youtu.be/YyGDbepAV
 Show What You Know: Explain Your Program - Conditional Loops: https://youtu.be/j9NV6f8gyTo
 
 Show What You Know: Explain Your Program - If-Else: https://youtu.be/zjqlq2qKy0Y
+
+Show What You Know: Explain Your Program - Nested If-Else: https://youtu.be/W1St_xAuvDQ
